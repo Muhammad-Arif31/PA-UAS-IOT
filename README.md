@@ -8,7 +8,7 @@
 
 **Judul Project Akhir**
 
-_Sistem IoT Untuk Monitoring dan Kontrol Led Automatis Menggunakan Sensor Intensitas Cahaya (Telegram)_
+_Sistem IoT Untuk Monitoring dan Kontrol Pir Motion Untuk Mendeteksi Maling Menggunakan Aplikasi Kodular_
 
 
 **Deskripsi**
