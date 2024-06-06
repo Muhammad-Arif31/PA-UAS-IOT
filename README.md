@@ -32,5 +32,6 @@ Sistem ini dirancang untuk memberikan solusi otomatis dalam mengontrol keamanan 
 3. Pir Motion (1 buah)
 
 
-**Diagram Blok**
+**Board Schematic**
+
 <img src="Diagram Blok.jpg">>
