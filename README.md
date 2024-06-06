@@ -33,4 +33,4 @@ Sistem ini dirancang untuk memberikan solusi otomatis dalam mengontrol keamanan 
 
 
 **Diagram Blok**
-<>
+<img src="Diagram Blok.jpg">>
